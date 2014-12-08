@@ -1,0 +1,6 @@
+2014-11-27 15:43:00,976 [10] INFO  FactoryDemo.Program ========== [Process Start] ==========
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Program factory get : Logic_1
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Program Logic_1 executed successfully!
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Program factory get : Logic_2
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Program Logic_2 executed successfully!
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Program ========== [Process End] ==========

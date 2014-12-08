@@ -1,0 +1,2 @@
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Logics.Logic_2 Says : Hello from Logic_2 !
+2014-11-27 15:43:00,992 [10] INFO  FactoryDemo.Logics.Logic_2 ...resource disposed!
